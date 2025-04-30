@@ -1,0 +1,9 @@
+"%d" -- used to specify whole numbers
+"%f" -- used to specify float numbers
+for single characters, we use quotes ' ','X'.
+%c is for single characters
+%s is for strings
+1c1
+< Z
+---
+> ls -Umpt
